@@ -1,4 +1,4 @@
-# online-asr-client-code
+# asr-client-code
 
 This repo including sample clients to connect with NTU AISpeechLab server
 The audio format should be either in .wav, .mp3 or raw.
